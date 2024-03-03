@@ -1,0 +1,25 @@
+{
+  "short_name": "lovedrugsex",
+  "name": "lovedrugsex",
+  "icons": [
+    {
+      "src": "assets/favicon.gif",
+      "sizes": "283x320",
+      "type": "image/gif"
+    },
+    {
+      "src": "assets/icon192.png",
+      "type": "image/png",
+      "sizes": "170x192"
+    },
+    {
+      "src": "assets/icon512.png",
+      "type": "image/png",
+      "sizes": "453x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ed6035",
+  "background_color": "#312138"
+}
