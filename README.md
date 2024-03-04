@@ -1,5 +1,4 @@
-love drugs sex
-github profile page
-
-180% of the code is from YofukashiNo
-they r very cool and make very cool stuff
+# lovedrugsex.github.io
+stolen but beautiful profile page
+## !!
+[180% of code belongs to YofukashiNo. if there is any bad code is prob mine. they make very cool stuff esp discord plugins highly reccomend.](https://github.com/YofukashiNo)
